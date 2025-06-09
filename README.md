@@ -1,33 +1,29 @@
-# React + TypeScript + Vite
+# New Hire Search
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ ## Description <br>
+  In this project we are working on searching for new hire candidates. <br><br>
+  ## Table of Contents <br>
+  [Installation](#h2-Installation)<br>
+  [Usage](#h2-Usage)<br>
+  [Contributing](#h2-Contributing)<br>
+  [License](#h2-License)<br>
+  [Tests](#h2-Tests)<br>
+  [Questions](#h2-Questions)<br>
 
-Currently, two official plugins are available:
+  ## Installation <br>
+  Load the project code from Order_Up GitHub repository. Once on your local drive on your terminal, run the code with: npm install, npm run build, npm run dev. 
 
-* [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md), which uses [Babel](https://babeljs.io/) for Fast Refresh
-* [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc), which uses [SWC](https://swc.rs/) for Fast Refresh
+  <br><br>
+  ## Usage <br>
+  You can use this README to help with your GitHub describe and identify your code. <br><br>
+  ## Contributing <br>
+  None <br><br>
+  ## License <br>
+  None <br><br>
+  ## Tests <br>
+  Follow the installation instructions to help guide you with testing. Once it's setup, you can run the code over and over again with the following command: npm run dev. <br><br>
+  ## Questions <br>
+  Github profile link: https://git.bootcampcontent.com/elishac174-ZHRVYU <br>
+  For further inquiries, please reach out to me at elishac174@gmail.com.
 
-## Expanding the ESLint configuration
-
-If you're developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-* Configure the top-level `parserOptions` property as follows:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-* Replace `plugin:@typescript-eslint/recommended` with `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`.
-* Optionally, add `plugin:@typescript-eslint/stylistic-type-checked`.
-* Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` and `plugin:react/jsx-runtime` to the `extends` list.
-
----
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+  Link to how to Video: 
